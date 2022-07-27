@@ -19,11 +19,11 @@ git clone https://github.com/Hafizalimi7/bank_tech_test.git
 npm install
 
 #How To Test Program
-npx use node
-npm init -y
-npm install
-npm run tests
-jest --coverage
+- npx use node
+- npm init -y
+- npm install
+- npm run tests
+- jest --coverage
 
 Testing:
 To run the tests:
